@@ -17,6 +17,7 @@
 - An Angular web interface to display categorized content (apps, music, books, videos).
 - An Android app for the Nutrition Course at my training center.
 - Complex forms in Angular using PrimeNG and multiple RESTful services.
+- Learning Microservicies in deatil making multiple projects
 
 ## 📊 GitHub Stats
 
